@@ -316,6 +316,12 @@ address{
     margin-bottom: 60px;
 }
 /*portfolio*/
+.side-portfolio{
+    /* border: 1px solid #ECECEC; */
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:#ECECEC;
+}
 .list{
     display: flex;
     justify-content: center;
