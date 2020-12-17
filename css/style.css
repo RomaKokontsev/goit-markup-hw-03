@@ -342,7 +342,8 @@ address{
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
-    letter-spacing: 0.03em
+    letter-spacing: 0.03em;
+    cursor:pointer;
 }
 .type-work:hover,
 .type-work:focus{
